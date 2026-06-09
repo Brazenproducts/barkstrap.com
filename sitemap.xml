@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://barkstrap.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://barkstrap.com/best-tree-saver-straps.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://barkstrap.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://barkstrap.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://barkstrap.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://barkstrap.com/how-to-choose-barkstrap-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-what-wed-buy-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-explained-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://barkstrap.com/how-to-pick-barkstrap-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://barkstrap.com/best-barkstrap-without-overpaying.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://barkstrap.com/what-we-look-for-barkstrap-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://barkstrap.com/truth-about-barkstrap-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://barkstrap.com/smart-barkstrap-shopping-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-compared-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-market-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-quality-vs-marketing.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-worth-the-upgrade-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-buyers-handbook-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://barkstrap.com/no-bs-barkstrap-guide-2026.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://barkstrap.com/barkstrap-tested-ranked-2026.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://barkstrap.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
